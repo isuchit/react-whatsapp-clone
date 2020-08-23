@@ -1,3 +1,39 @@
 # react-whatsapp-clone
 
-see the demo https://whatsapp-clone-6376a.web.app/rooms/ekioZWmw9bttlorystvu
+
+## Create a Firebase project
+
+- Login to firebase 
+- Create a project (E.g., whatsapp-clone)
+- Go to Firebase SDK snippet 
+- Copy config and paste it [here](/src/firebase.js) 
+
+
+## Run the app locally 
+
+> - npm install
+
+> - npm start
+
+## Hosting Application on Firebase
+
+> - firebase login
+
+> - firebase init
+
+Now, choose the project that you have created in firebase
+
+Deploy the application locally
+
+> - npm build
+
+Its all set to deploy to firebase
+
+> - firebase deploy
+
+Hola its done... Deployed to Firebase !!!
+
+
+### Demo
+
+-  https://whatsapp-clone-6376a.web.app/rooms/ekioZWmw9bttlorystvu
