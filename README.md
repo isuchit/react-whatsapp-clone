@@ -6,7 +6,7 @@
 - Login to firebase 
 - Create a project (E.g., whatsapp-clone)
 - Go to Firebase SDK snippet 
-- Copy config and paste it [here](/src/firebase.js) 
+- Copy config and paste it [here](/src/firebase.js#L4)
 
 
 ## Run the app locally 
@@ -34,6 +34,6 @@ Its all set to deploy to firebase
 Hola its done... Deployed to Firebase !!!
 
 
-### Demo
+### Demo Link
 
 -  https://whatsapp-clone-6376a.web.app/rooms/ekioZWmw9bttlorystvu
