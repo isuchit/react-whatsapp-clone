@@ -18,3 +18,7 @@
     margin-bottom: 8px;
 }
 
+a {
+    text-decoration: none !important;
+    color: black;
+}
