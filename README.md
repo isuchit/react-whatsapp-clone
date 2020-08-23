@@ -41,5 +41,14 @@ Hola its done... Deployed to Firebase !!!
 
 #### Screenshots
 
-- Login 
-![](/screenshorts/login.png)
+- **Login**
+
+  ![Login](/screenshots/login.png)
+  
+- **SingIn**
+
+  ![SignIn](/screenshots/sigin.png)
+  
+- **WhatsApp**
+
+  ![WhatsApp](/screenshots/whatsapp.png)
