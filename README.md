@@ -15,7 +15,7 @@
 
 > - npm start
 
-## Hosting Application on Firebase
+## Host a React Application on Firebase
 
 > - firebase login
 
